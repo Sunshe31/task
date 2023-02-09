@@ -3,7 +3,7 @@
 echo "enter your name"
 read n
 echo "enter your age"
-read g
+read age
 for a in u are allowed
 do 
 echo "$a"

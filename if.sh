@@ -3,7 +3,7 @@ echo "enter your name"
 read n
 echo "enter your age"
 read a
-if (( a > 18))
+if (( a > 19))
 then
 echo "u are allowed to watch the movie"
 else
